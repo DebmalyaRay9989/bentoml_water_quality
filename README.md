@@ -19,3 +19,6 @@ Calling init_local() isn't necessary unless you are working in an interactive or
 API Input and Output Handling:
 
 Ensure that input and output decorators match the data type correctly. If you're working with NumpyNdarray, ensure that it's being passed and returned in the correct format.
+
+![image](https://github.com/user-attachments/assets/650319fe-65b7-4fae-8815-a1d92904e99f)
+
