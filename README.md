@@ -1,3 +1,5 @@
+## BENTO ML WATER QUALITY
+
 The code you've provided is almost complete for setting up a BentoML service that serves multiple machine learning models (like Random Forest, SVM, Decision Tree, and Logistic Regression). However, there are a few small improvements and clarifications that could enhance the service, particularly around the handling of predictions and making the service more robust.
 
 <b> Key Enhancements: </b>
