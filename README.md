@@ -24,3 +24,12 @@ Ensure that input and output decorators match the data type correctly. If you're
 
 Bento ML List
 ![image](https://github.com/user-attachments/assets/5ae42d60-dedd-411d-b4d2-7f43d3cb30c7)
+
+FASTAPI COMMAND :
+
+uvicorn app:app --reload --host 0.0.0.0 --port 8000
+
+![image](https://github.com/user-attachments/assets/805b0275-0950-42ee-8fb8-8b3efed2f0c4)
+
+
+
