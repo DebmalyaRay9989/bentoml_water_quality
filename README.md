@@ -31,5 +31,9 @@ uvicorn app:app --reload --host 0.0.0.0 --port 8000
 
 ![image](https://github.com/user-attachments/assets/805b0275-0950-42ee-8fb8-8b3efed2f0c4)
 
+bentoml serve model_service:service --reload
+![image](https://github.com/user-attachments/assets/ab45cf62-26ba-4ace-aa75-0b9dc817d693)
+
+
 
 
