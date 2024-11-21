@@ -22,15 +22,17 @@ Ensure that input and output decorators match the data type correctly. If you're
 
 ![image](https://github.com/user-attachments/assets/650319fe-65b7-4fae-8815-a1d92904e99f)
 
-Bento ML List
+### Bento ML List
 ![image](https://github.com/user-attachments/assets/5ae42d60-dedd-411d-b4d2-7f43d3cb30c7)
 
-FASTAPI COMMAND :
+### FASTAPI COMMAND :
 
 uvicorn app:app --reload --host 0.0.0.0 --port 8000
 
 ![image](https://github.com/user-attachments/assets/805b0275-0950-42ee-8fb8-8b3efed2f0c4)
 
+
+### BENTOML COMMAND :
 bentoml serve model_service:service --reload
 ![image](https://github.com/user-attachments/assets/ab45cf62-26ba-4ace-aa75-0b9dc817d693)
 
